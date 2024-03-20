@@ -10,6 +10,7 @@
   - [x] 前端维护 -Djwxq
   - [x] 安全人员 - Gua
   - [x] 项目管理 - Sleepy
+  - [x] 统筹规划/Admin - EOWDeveloper
   - [ ] Etc.（请联系我们）
   - [ ] **You**
 
